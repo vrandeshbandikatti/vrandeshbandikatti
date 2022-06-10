@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vrandeshbandikatti
 - 👀 I’m interested in Frontend and backend technologies
-- 🌱 I’m currently learning Vue3
+- 🌱 I’m with Vue3
 - 💞️ I’m looking to collaborate on Multiple projects
 - 📫 How to reach me ...vrandesh.bandikatti@findex.com.au
 
